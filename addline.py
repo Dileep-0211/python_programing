@@ -25,8 +25,8 @@ def process_file(file_path, keyword):
 
 # Example usage
 if __name__ == "__main__":
-    file_path = "babai/linux-5.10.y-plan.yml"  # Replace with your file name
-    keyword = "allnoconfig"      # Replace with your desired keyword
+    file_path = "give your path"  # Replace with your file name
+    keyword = "give your keyword"      # Replace with your desired keyword
     process_file(file_path, keyword)
     print("Lines containing the keyword were modified and added successfully!")
 
